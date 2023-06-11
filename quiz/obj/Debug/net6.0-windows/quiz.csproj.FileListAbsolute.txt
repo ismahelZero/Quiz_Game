@@ -1,0 +1,110 @@
+C:\Users\aaa\OneDrive\Documents\Visual Studio 2022\codes\quiz\quiz\bin\Debug\net6.0-windows\quiz.exe
+C:\Users\aaa\OneDrive\Documents\Visual Studio 2022\codes\quiz\quiz\bin\Debug\net6.0-windows\quiz.deps.json
+C:\Users\aaa\OneDrive\Documents\Visual Studio 2022\codes\quiz\quiz\bin\Debug\net6.0-windows\quiz.runtimeconfig.json
+C:\Users\aaa\OneDrive\Documents\Visual Studio 2022\codes\quiz\quiz\bin\Debug\net6.0-windows\quiz.dll
+C:\Users\aaa\OneDrive\Documents\Visual Studio 2022\codes\quiz\quiz\bin\Debug\net6.0-windows\quiz.pdb
+C:\Users\aaa\OneDrive\Documents\Visual Studio 2022\codes\quiz\quiz\obj\Debug\net6.0-windows\quiz.csproj.AssemblyReference.cache
+C:\Users\aaa\OneDrive\Documents\Visual Studio 2022\codes\quiz\quiz\obj\Debug\net6.0-windows\quiz.Form1.resources
+C:\Users\aaa\OneDrive\Documents\Visual Studio 2022\codes\quiz\quiz\obj\Debug\net6.0-windows\quiz.Properties.Resources.resources
+C:\Users\aaa\OneDrive\Documents\Visual Studio 2022\codes\quiz\quiz\obj\Debug\net6.0-windows\quiz.csproj.GenerateResource.cache
+C:\Users\aaa\OneDrive\Documents\Visual Studio 2022\codes\quiz\quiz\obj\Debug\net6.0-windows\quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaa\OneDrive\Documents\Visual Studio 2022\codes\quiz\quiz\obj\Debug\net6.0-windows\quiz.AssemblyInfoInputs.cache
+C:\Users\aaa\OneDrive\Documents\Visual Studio 2022\codes\quiz\quiz\obj\Debug\net6.0-windows\quiz.AssemblyInfo.cs
+C:\Users\aaa\OneDrive\Documents\Visual Studio 2022\codes\quiz\quiz\obj\Debug\net6.0-windows\quiz.csproj.CoreCompileInputs.cache
+C:\Users\aaa\OneDrive\Documents\Visual Studio 2022\codes\quiz\quiz\obj\Debug\net6.0-windows\quiz.dll
+C:\Users\aaa\OneDrive\Documents\Visual Studio 2022\codes\quiz\quiz\obj\Debug\net6.0-windows\refint\quiz.dll
+C:\Users\aaa\OneDrive\Documents\Visual Studio 2022\codes\quiz\quiz\obj\Debug\net6.0-windows\quiz.pdb
+C:\Users\aaa\OneDrive\Documents\Visual Studio 2022\codes\quiz\quiz\obj\Debug\net6.0-windows\quiz.genruntimeconfig.cache
+C:\Users\aaa\OneDrive\Documents\Visual Studio 2022\codes\quiz\quiz\obj\Debug\net6.0-windows\ref\quiz.dll
+C:\Users\aaa\OneDrive\Documents\Visual Studio 2022\codes\quiz\quiz\obj\Debug\net6.0-windows\quiz.Form2.resources
+C:\Users\aaa\OneDrive\Documents\Visual Studio 2022\codes\quiz\quiz\obj\Debug\net6.0-windows\quiz.Form3.resources
+C:\Users\aaa\OneDrive\Documents\Visual Studio 2022\codes\quiz\quiz\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\aaa\OneDrive\Documents\Visual Studio 2022\codes\quiz\quiz\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\aaa\OneDrive\Documents\Visual Studio 2022\codes\quiz\quiz\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\aaa\OneDrive\Documents\Visual Studio 2022\codes\quiz\quiz\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\aaa\OneDrive\Documents\Visual Studio 2022\codes\quiz\quiz\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\aaa\OneDrive\Documents\Visual Studio 2022\codes\quiz\quiz\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\aaa\OneDrive\Documents\Visual Studio 2022\codes\quiz\quiz\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\aaa\OneDrive\Documents\Visual Studio 2022\codes\quiz\quiz\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\aaa\OneDrive\Documents\Visual Studio 2022\codes\quiz\quiz\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\aaa\OneDrive\Documents\Visual Studio 2022\codes\quiz\quiz\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\aaa\OneDrive\Documents\Visual Studio 2022\codes\quiz\quiz\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\aaa\OneDrive\Documents\Visual Studio 2022\codes\quiz\quiz\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\aaa\OneDrive\Documents\Visual Studio 2022\codes\quiz\quiz\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aaa\OneDrive\Documents\Visual Studio 2022\codes\quiz\quiz\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aaa\OneDrive\Documents\Visual Studio 2022\codes\quiz\quiz\obj\Debug\net6.0-windows\quiz.csproj.CopyComplete
+C:\Users\Source Tech Co\Desktop\quiz\quiz\bin\Debug\net6.0-windows\quiz.exe
+C:\Users\Source Tech Co\Desktop\quiz\quiz\bin\Debug\net6.0-windows\quiz.deps.json
+C:\Users\Source Tech Co\Desktop\quiz\quiz\bin\Debug\net6.0-windows\quiz.runtimeconfig.json
+C:\Users\Source Tech Co\Desktop\quiz\quiz\bin\Debug\net6.0-windows\quiz.dll
+C:\Users\Source Tech Co\Desktop\quiz\quiz\bin\Debug\net6.0-windows\quiz.pdb
+C:\Users\Source Tech Co\Desktop\quiz\quiz\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\Source Tech Co\Desktop\quiz\quiz\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\Source Tech Co\Desktop\quiz\quiz\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\Source Tech Co\Desktop\quiz\quiz\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Source Tech Co\Desktop\quiz\quiz\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\Source Tech Co\Desktop\quiz\quiz\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Source Tech Co\Desktop\quiz\quiz\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Source Tech Co\Desktop\quiz\quiz\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Source Tech Co\Desktop\quiz\quiz\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\Source Tech Co\Desktop\quiz\quiz\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\Source Tech Co\Desktop\quiz\quiz\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\Source Tech Co\Desktop\quiz\quiz\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\Source Tech Co\Desktop\quiz\quiz\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Source Tech Co\Desktop\quiz\quiz\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Source Tech Co\Desktop\quiz\quiz\obj\Debug\net6.0-windows\quiz.csproj.AssemblyReference.cache
+C:\Users\Source Tech Co\Desktop\quiz\quiz\obj\Debug\net6.0-windows\quiz.Form1.resources
+C:\Users\Source Tech Co\Desktop\quiz\quiz\obj\Debug\net6.0-windows\quiz.Form2.resources
+C:\Users\Source Tech Co\Desktop\quiz\quiz\obj\Debug\net6.0-windows\quiz.Form3.resources
+C:\Users\Source Tech Co\Desktop\quiz\quiz\obj\Debug\net6.0-windows\quiz.Properties.Resources.resources
+C:\Users\Source Tech Co\Desktop\quiz\quiz\obj\Debug\net6.0-windows\quiz.csproj.GenerateResource.cache
+C:\Users\Source Tech Co\Desktop\quiz\quiz\obj\Debug\net6.0-windows\quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Source Tech Co\Desktop\quiz\quiz\obj\Debug\net6.0-windows\quiz.AssemblyInfoInputs.cache
+C:\Users\Source Tech Co\Desktop\quiz\quiz\obj\Debug\net6.0-windows\quiz.AssemblyInfo.cs
+C:\Users\Source Tech Co\Desktop\quiz\quiz\obj\Debug\net6.0-windows\quiz.csproj.CoreCompileInputs.cache
+C:\Users\Source Tech Co\Desktop\quiz\quiz\obj\Debug\net6.0-windows\quiz.csproj.CopyComplete
+C:\Users\Source Tech Co\Desktop\quiz\quiz\obj\Debug\net6.0-windows\quiz.dll
+C:\Users\Source Tech Co\Desktop\quiz\quiz\obj\Debug\net6.0-windows\refint\quiz.dll
+C:\Users\Source Tech Co\Desktop\quiz\quiz\obj\Debug\net6.0-windows\quiz.pdb
+C:\Users\Source Tech Co\Desktop\quiz\quiz\obj\Debug\net6.0-windows\quiz.genruntimeconfig.cache
+C:\Users\Source Tech Co\Desktop\quiz\quiz\obj\Debug\net6.0-windows\ref\quiz.dll
+C:\Users\aaa\OneDrive\Desktop\quiz\quiz\bin\Debug\net6.0-windows\quiz.exe
+C:\Users\aaa\OneDrive\Desktop\quiz\quiz\bin\Debug\net6.0-windows\quiz.deps.json
+C:\Users\aaa\OneDrive\Desktop\quiz\quiz\bin\Debug\net6.0-windows\quiz.runtimeconfig.json
+C:\Users\aaa\OneDrive\Desktop\quiz\quiz\bin\Debug\net6.0-windows\quiz.dll
+C:\Users\aaa\OneDrive\Desktop\quiz\quiz\bin\Debug\net6.0-windows\quiz.pdb
+C:\Users\aaa\OneDrive\Desktop\quiz\quiz\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\aaa\OneDrive\Desktop\quiz\quiz\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\aaa\OneDrive\Desktop\quiz\quiz\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\aaa\OneDrive\Desktop\quiz\quiz\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\aaa\OneDrive\Desktop\quiz\quiz\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\aaa\OneDrive\Desktop\quiz\quiz\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\aaa\OneDrive\Desktop\quiz\quiz\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\aaa\OneDrive\Desktop\quiz\quiz\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\aaa\OneDrive\Desktop\quiz\quiz\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\aaa\OneDrive\Desktop\quiz\quiz\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\aaa\OneDrive\Desktop\quiz\quiz\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\aaa\OneDrive\Desktop\quiz\quiz\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\aaa\OneDrive\Desktop\quiz\quiz\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aaa\OneDrive\Desktop\quiz\quiz\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aaa\OneDrive\Desktop\quiz\quiz\obj\Debug\net6.0-windows\quiz.csproj.AssemblyReference.cache
+C:\Users\aaa\OneDrive\Desktop\quiz\quiz\obj\Debug\net6.0-windows\quiz.Form1.resources
+C:\Users\aaa\OneDrive\Desktop\quiz\quiz\obj\Debug\net6.0-windows\quiz.Form2.resources
+C:\Users\aaa\OneDrive\Desktop\quiz\quiz\obj\Debug\net6.0-windows\quiz.Form3.resources
+C:\Users\aaa\OneDrive\Desktop\quiz\quiz\obj\Debug\net6.0-windows\quiz.Properties.Resources.resources
+C:\Users\aaa\OneDrive\Desktop\quiz\quiz\obj\Debug\net6.0-windows\quiz.csproj.GenerateResource.cache
+C:\Users\aaa\OneDrive\Desktop\quiz\quiz\obj\Debug\net6.0-windows\quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aaa\OneDrive\Desktop\quiz\quiz\obj\Debug\net6.0-windows\quiz.AssemblyInfoInputs.cache
+C:\Users\aaa\OneDrive\Desktop\quiz\quiz\obj\Debug\net6.0-windows\quiz.AssemblyInfo.cs
+C:\Users\aaa\OneDrive\Desktop\quiz\quiz\obj\Debug\net6.0-windows\quiz.csproj.CoreCompileInputs.cache
+C:\Users\aaa\OneDrive\Desktop\quiz\quiz\obj\Debug\net6.0-windows\quiz.csproj.CopyComplete
+C:\Users\aaa\OneDrive\Desktop\quiz\quiz\obj\Debug\net6.0-windows\quiz.dll
+C:\Users\aaa\OneDrive\Desktop\quiz\quiz\obj\Debug\net6.0-windows\refint\quiz.dll
+C:\Users\aaa\OneDrive\Desktop\quiz\quiz\obj\Debug\net6.0-windows\quiz.pdb
+C:\Users\aaa\OneDrive\Desktop\quiz\quiz\obj\Debug\net6.0-windows\quiz.genruntimeconfig.cache
+C:\Users\aaa\OneDrive\Desktop\quiz\quiz\obj\Debug\net6.0-windows\ref\quiz.dll
+C:\Users\aaa\OneDrive\Desktop\quiz\quiz\bin\Debug\net6.0-windows\Guna.UI2.dll
+C:\Users\aaa\OneDrive\Desktop\quiz\quiz\bin\Debug\net6.0-windows\SipaaFramework.dll
+C:\Users\aaa\OneDrive\Desktop\quiz\quiz\bin\Debug\net6.0-windows\System.Management.dll
+C:\Users\aaa\OneDrive\Desktop\quiz\quiz\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Management.dll
+C:\Users\aaa\OneDrive\Desktop\quiz\quiz\bin\Debug\net6.0-windows\Swashbuckle.AspNetCore.SwaggerUI.dll
